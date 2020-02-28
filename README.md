@@ -1,6 +1,8 @@
 # TECNISA_Software
+## Asociated places: Deustche Auslandsschulen International
 ###### Contrato: Sara Zavala y Compañero (Front-end & back-end)
 ###### Lenguaje recomendado: Kotlin
+
 
 **TECNISA** es una compañia especializada en cargamento pesado, manejo de maquinaria centroamericana e imlpementación de materiales industriales a nivel nacional, fundada en 2001.
 
@@ -16,9 +18,9 @@
      - Conecct to all the stuff in DB 
 ---------------------------------------------------------------------------------------------------------------------------------- 
 
-** TECNISA ** is a company specialized in heavy shipload, handling of Central American machinery and industrial materials implementation nationwide, founded in 2001.
+**TECNISA** is a company specialized in heavy shipload, handling of Central American machinery and industrial materials implementation nationwide, founded in 2001.
 
-## * Requested software *
+## *Requested software*
 1. Database
    - Employee in all branches
      - Local and via internet
@@ -29,7 +31,7 @@
    - Unique and exclusive for company partners
      - Connect to all the stuff in DB
  ---------------------------------------------------------------------------------------------------------------------------------- 
- ## * Angeforderte Software *
+ ## *Angeforderte Software*
 1. Datenbank
    - Mitarbeiter in allen Branchen
      - Lokal und über das Internet
