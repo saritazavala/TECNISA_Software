@@ -22,23 +22,23 @@
 
 ## *Requested software*
 1. Database
-   - Employee in all branches
-     - Local and via internet
+   - Employee in all branches
+      - Local and via internet
 2. Web Work
-   - Employed in 3 different languages (English, Spanish, German)
-     - Each country drives externally
+   - Employed in 3 different languages (English, Spanish, German)
+        - Each country drives externally
 3. Mobile Application (Android & IOs)
-   - Unique and exclusive for company partners
-     - Connect to all the stuff in DB
+   - Unique and exclusive for company partners
+      - Connect to all the stuff in DB
  ---------------------------------------------------------------------------------------------------------------------------------- 
  ## *Angeforderte Software*
 1. Datenbank
-   - Mitarbeiter in allen Branchen
-     - Lokal und über das Internet
+   - Mitarbeiter in allen Branchen
+      - Lokal und über das Internet
 2. Webarbeit
-   - In 3 verschiedenen Sprachen beschäftigt (Englisch, Spanisch, Deutsch)
-     - Jedes Land fährt extern
+   - In 3 verschiedenen Sprachen beschäftigt (Englisch, Spanisch, Deutsch)
+      - Jedes Land fährt extern
 3. Mobile Anwendung (Android & IOs)
-   - Einzigartig und exklusiv für Unternehmenspartner
-     - Stellen Sie eine Verbindung zu allen Dingen in der DB her
+   - Einzigartig und exklusiv für Unternehmenspartner
+      - Stellen Sie eine Verbindung zu allen Dingen in der DB her
  
