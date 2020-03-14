@@ -1,6 +1,6 @@
 # TECNISA_Software
 ## Asociated places: Deustche Auslandsschulen International
-###### Contrato: Sara Zavala y Compañero (Front-end & back-end)
+###### Contrato: Sara Zavala y Gerard Williams (Front-end & back-end)
 ###### Lenguaje recomendado: Kotlin
 
 
