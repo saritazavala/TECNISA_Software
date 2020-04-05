@@ -1,7 +1,7 @@
 # TECNISA_Software
 ## Asociated places: Deustche Auslandsschulen International
 ###### Contrato: Sara Zavala y Timothy Williams (Front-end & back-end)
-###### Lenguaje recomendado: Kotlin
+###### Lenguaje recomendado: En espera
 
 
 **TECNISA** es una compañia especializada en cargamento pesado, manejo de maquinaria centroamericana e imlpementación de materiales industriales a nivel nacional, fundada en 2001.
